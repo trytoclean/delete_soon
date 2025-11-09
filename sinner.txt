@@ -1,7 +1,11 @@
 just for fun
+<<<<<<< HEAD
 
 
 
 
 
 un update maybe is kernal panic:)
+=======
+new line from another user. so will update
+>>>>>>> 787bd2f (hello from dev)
